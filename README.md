@@ -24,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
+| [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 ## Hash Table
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
