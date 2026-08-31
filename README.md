@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 ## Array
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
