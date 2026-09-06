@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
