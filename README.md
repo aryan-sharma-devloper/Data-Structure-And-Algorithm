@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
