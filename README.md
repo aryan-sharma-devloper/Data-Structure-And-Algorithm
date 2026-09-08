@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
