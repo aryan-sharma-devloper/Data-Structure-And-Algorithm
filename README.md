@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -81,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
