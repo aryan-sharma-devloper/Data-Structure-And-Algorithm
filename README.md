@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
