@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
