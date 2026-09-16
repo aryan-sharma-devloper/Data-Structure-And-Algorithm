@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
@@ -77,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
