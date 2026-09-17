@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
@@ -120,8 +122,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
