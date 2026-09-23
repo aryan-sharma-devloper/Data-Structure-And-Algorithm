@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -128,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
