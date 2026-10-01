@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
