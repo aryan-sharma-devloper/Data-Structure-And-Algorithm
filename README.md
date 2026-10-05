@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0856-score-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
