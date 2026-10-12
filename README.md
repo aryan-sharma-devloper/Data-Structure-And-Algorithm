@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
