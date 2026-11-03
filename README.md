@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
