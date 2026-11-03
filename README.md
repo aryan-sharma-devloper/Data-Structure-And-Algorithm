@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
