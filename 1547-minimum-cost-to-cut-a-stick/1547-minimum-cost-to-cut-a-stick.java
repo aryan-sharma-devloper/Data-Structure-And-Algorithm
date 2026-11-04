@@ -1,31 +1,25 @@
 class Solution {
     public int minCost(int n, int[] cuts) {
         int m = cuts.length;
-        int arr[] = new int[m+2];
+        int[] arr = new int[m + 2];
         arr[0] = 0;
-        arr[m+1] = n ; 
-        for(int i = 0 ; i < m ; i++){
-            arr[i+1] = cuts[i];
+        arr[m + 1] = n;
+        for (int i = 0; i < m; i++) {
+            arr[i + 1] = cuts[i];
         }
         Arrays.sort(arr);
         int[][] dp = new int[m + 2][m + 2];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        for(int gap = 2 ; gap < m+2 ; gap++){
+            for(int i = 0 ; i+gap < m+2; i++){
+                int j = i + gap;
+                int min = Integer.MAX_VALUE;
+                for(int k = i+1; k < j ; k++){
+                    int cost = dp[i][k] + dp[k][j] + arr[j] - arr[i];
+                    min = Math.min( min , cost);
+                }
+                dp[i][j] = min ;
+            }
         }
-        return solve(0, m + 1, arr, dp);
-    }
-    public static int solve(int i , int j , int []arr , int[][]dp){
-        if (j - i <= 1) {
-            return 0;
-        }
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
-        int ans = Integer.MAX_VALUE;
-        for(int k = i+1 ; k < j ; k++){
-            int cost = arr[j] - arr[i]+ solve(i, k, arr, dp)+ solve(k, j, arr, dp);
-            ans = Math.min(ans, cost);
-        }
-        return dp[i][j] = ans;
+        return dp[0][m+1];
     }
 }
