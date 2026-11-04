@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Memoization
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
