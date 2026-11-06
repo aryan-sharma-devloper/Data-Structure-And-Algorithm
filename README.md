@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2409-count-days-spent-together](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3870-count-commas-in-range) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
