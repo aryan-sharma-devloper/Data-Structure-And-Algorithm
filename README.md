@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2409-count-days-spent-together](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3693-climbing-stairs-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
