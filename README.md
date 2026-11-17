@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
+| [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
+| [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -243,11 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
