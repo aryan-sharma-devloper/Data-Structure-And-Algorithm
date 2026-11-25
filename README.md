@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1143-longest-common-subsequence) |
+| [1436-destination-city](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1436-destination-city) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2390-removing-stars-from-a-string) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1436-destination-city) |
 | [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1436-destination-city](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1436-destination-city) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2073-time-needed-to-buy-tickets](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2073-time-needed-to-buy-tickets) |
