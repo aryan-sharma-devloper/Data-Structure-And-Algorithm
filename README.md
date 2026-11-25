@@ -271,4 +271,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
