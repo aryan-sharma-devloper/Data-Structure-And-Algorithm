@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 | [2747-count-zero-request-servers](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0746-min-cost-climbing-stairs) |
+| [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 | [1049-last-stone-weight-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
