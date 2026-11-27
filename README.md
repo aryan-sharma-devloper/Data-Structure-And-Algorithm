@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3693-climbing-stairs-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/aryan-sharma-devloper/Data-Structure-And-Algorithm/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
